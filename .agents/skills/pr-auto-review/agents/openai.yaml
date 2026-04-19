@@ -1,0 +1,3 @@
+name: pr-auto-review
+model: o4-mini
+description: Automated pull request review agent that analyzes code changes and provides structured feedback
